@@ -1,0 +1,24 @@
+{
+  "name": "blognoticias",
+  "version": "1.0.0",
+  "description": "blog de noticias de elda morales",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgastrell/blognoticias.git"
+  },
+  "author": "jgastrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgastrell/blognoticias/issues"
+  },
+  "homepage": "https://github.com/jgastrell/blognoticias#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "mysql": "^2.13.0"
+  }
+}
